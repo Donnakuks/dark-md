@@ -1,4 +1,4 @@
- 
+u 
 
 # `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
 <p align="center">  
@@ -153,19 +153,7 @@ NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
-
-# `TUTORIALS`
-
-***Deploy on Heroku Video ⇓***
- <p align="left">
-<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
- </p>
- </br>
- 
-***Logs Error Fix Video ⇓***
- <p align="left">
-<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
-   
+    
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
@@ -173,41 +161,28 @@ NOW Deploy👇
 <a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
 
 
-## 📛 `OWNER & Main Developer` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
-  
-**XLICON-V4** - By `salmanytofficial`
-<br>
-`Development , Maintainence , Bot Updates`
+## 🦇 `OWNER & Main Developer` 
+<a href="https://github.com/Donnakuks"><img src="https://github.com/Donnakuks.png" width="250" height="250" alt="Salman Ahmad"/></a>
 
-## 🐱‍👤 `Contributer` 
-<a href="https://github.com/IRON-M4N"><img src="https://github.com/IRON-M4N.png" width="250" height="250" alt="IRON MAN"/></a>
-  
-**XLICON-V4** - By `IRON-M4N`
+**𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.** - By `Xenpai-Dark`
 <br>
-`Maintainence , Feature Testing`
-
 
 -------
 
-## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+## 🦇 `Support Us`
+- **Mail Us:** [Send Email](mailto:davvy247@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
-  ## ``Support Group``
+  ## ``WhatsApp Support🦇``
    
 - [`Dark-md channel`](https://whatsapp.com/channel/0029Vau78ycAO7R8rmToDC3l)
 - [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/2349137178897?text=Hi!! 𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐  Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
-
-<img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
-
 
 ## 🦇`Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
