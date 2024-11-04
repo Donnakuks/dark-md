@@ -1,62 +1,27 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      //
-//                                    𝗫𝗟𝗜𝗖𝗢𝗡-𝗩𝟰-𝗠𝗗  𝐁𝐎𝐓                                                //
-//                                                                                                      //
-//                                         Ｖ：4.0                                                       //
-//                                                                                                      //
-//                                                                                                      //      
-//               ██╗  ██╗██╗     ██╗ ██████╗ ██████╗ ███╗   ██╗      ██╗   ██╗██╗  ██╗                  //              
-//                ██╗██╔╝██║     ██║██╔════╝██╔═══██╗████╗  ██║      ██║   ██║██║  ██║                  //
-//                ╚███╔╝ ██║     ██║██║     ██║   ██║██╔██╗ ██║█████╗██║   ██║███████║                  // 
-//                ██╔██╗ ██║     ██║██║     ██║   ██║██║╚██╗██║╚════╝╚██╗ ██╔╝╚════██║                  // 
-//               ██╔╝ ██╗███████╗██║╚██████╗╚██████╔╝██║ ╚████║       ╚████╔╝      ██║                  //
-//                ═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝        ╚═══╝       ╚═╝                  // 
-//                                                                                                      //
-//                                                                                                      //
-//                                                                                                      //
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//*
-//  * @project_name : XLICON-V4-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
-//*
-//*
-//base by DGXeon
-//re-upload? recode? copy code? give credit ya :)
-//Instagram: ahmmikun
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
-// ⛥┌┤
-// */
+
 
 const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: davvy0989" //ur yt chanel name
+global.socialm = "GitHub: Donnakuks" //ur github or insta name
+global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
-global.websitex = "https://youtube.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
-global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
-global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.botname = '𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.' //ur bot name
+global.ownernumber = ['2349137178897'] //ur owner number, dont add more than one
+global.ownername = '𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 ' //ur owner name
+global.websitex = "https://youtube.com/@davvy0989"
+global.wagc = "https://chat.whatsapp.com/DI2Gi3bEWlrGQHTqfkskYg"
+global.themeemoji = '🦇'
+global.wm = "Dark Bot Inc."
+global.botscript = 'https://github.com/Donnakuks/dark-md' //script link
+global.packname = "🦇"
+global.author = "MΛDΣ BY 𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐"
+global.creator = "2349137178897@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["2349137178897"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
