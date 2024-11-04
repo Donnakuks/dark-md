@@ -14,8 +14,8 @@
 <p align="center">
 <a href="https://github.com/Donnakuks"><img title="Author" src="https://img.shields.io/badge/CREATOR-𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 -black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.**
-𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟. is a Cool Multi-Device WhatsApp bot developed by [David](https://github.com/Donnakuks). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### 🕊**About 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.**
+𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟. is a Cool Multi-Device WhatsApp bot developed by [𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 ](https://github.com/Donnakuks). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.}/count.svg" alt="𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐">
 
