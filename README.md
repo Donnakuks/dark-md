@@ -3,7 +3,6 @@
 # `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
 <br>
 
-## 🌟 `Bot Intro and Features`
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">
     <img alt="" height="600" width="600">
