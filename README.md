@@ -6,7 +6,7 @@
 ## 🌟 `Bot Intro and Features`
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">
-    <img alt="https://files.fm/f/8fxcp5jtqe" height="600" width="600">
+    <img alt="" height="600" width="600">
     <h1 align="center">𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.</h1>
   </a>
 </p>
@@ -22,44 +22,21 @@
 
 ### 📊 **Bot Statistics**
 <p align="center">
-<a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V4-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V4-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V4-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V4-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Donnakuks/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
+<a href="https://github.com/Donnakuks/dark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Donnakuks/dark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V4-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V4-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V4-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V4-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V4-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V4-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V4-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/XLICON-V4-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Donnakuks/dark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/Donnakuks/dark-md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonnakuks%2F𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Donnakuks/dark-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-</p>
 
-  
-####
-
-*XLICON-V4* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V15*
--------
-
-***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V4-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟. helpful, consider giving it a star ⭐ to show your appreciation.
 
-Thanks to all contributors! 🚀
-
-## 💲 ```Donate Me```
-
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through Buy Me A Coffee...
-</p>
-
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
 
 ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -79,7 +56,7 @@ Click On The Link To Donate ME...
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V4-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Donnakuks/dark-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Creds Json (SERVER 1)
     <br>
@@ -110,7 +87,7 @@ Click On The Link To Donate ME...
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V4-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/Donnakuks/dark-md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
