@@ -13,7 +13,7 @@ const NodeCache = require('node-cache');
 const PhoneNumber = require('awesome-phonenumber');
 const { default: makeWASocket, useMultiFileAuthState, Browsers, DisconnectReason, makeInMemoryStore, makeCacheableSignalKeyStore, proto, getAggregateVotesInPollMessage } = require('@whiskeysockets/baileys');
 
-let phoneNumber = "923184070915";
+let phoneNumber = "2349137178897";
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");
 const useMobile = process.argv.includes("--mobile");
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
@@ -60,12 +60,12 @@ console.log(chalk.cyan(figlet.textSync("XLICON-V4", {
 })));
 
 console.log(chalk.white.bold(`${chalk.gray.bold("📃  Information :")}         
-✉️  Script : XLICON-V4-MD
-✉️  Author : SALMAN AHMAD
-✉️  Gmail : salmansheikh2500@gmail.com
-✉️  Instagram : ahmmikun
+✉️  Script : DARK-MD
+✉️  Author : 𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 
+✉️  Gmail : davvy247@gmail.com
+✉️  Instagram : Deep.dark.end
 
-${chalk.green.bold("Powered By XLICON BOTZ")}\n`));
+${chalk.green.bold("Powered By 𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐")}\n`));
 
 async function startXliconBot() {
     //------------------------------------------------------
