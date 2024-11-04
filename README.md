@@ -2,8 +2,10 @@
 
 # `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
 <p align="center">  
-  <a href="https://youtube.com/@davvy0989">
-    <img alt="" height="600" width="600">
+  <a href="https://youtube.com/@davvy0989">  
+<p align="center">
+<img src="https://telegra.ph/file/cee44afdef7cc2fc45d85.jpg"/>
+</p>
     <h1 align="center">𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.</h1>
   </a>
 </p>
