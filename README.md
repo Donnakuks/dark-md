@@ -4,7 +4,7 @@ u
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">  
 <p align="center">
-<img src="https://ibb.co/TYwJZNw">
+<img src="https://github.com/Donnakuks.png"/>
 </p>
     <h1 align="center">𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.</h1>
   </a>
