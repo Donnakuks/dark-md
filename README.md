@@ -25,7 +25,7 @@
 <a href="https://github.com/Donnakuks?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Donnakuks?label=Followers&style=social"></a>
 <a href="https://github.com/Donnakuks/dark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Donnakuks/dark-md?&style=social"></a>
 <a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Donnakuks/dark-md?style=social"></a>
-<a href="https://github.com/Donnakuks/dark-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Donnakuks/dark-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Donnakuks/dark?label=Watching&style=social"></a>
 
 </p>
 <p align='center'>
