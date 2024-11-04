@@ -1,6 +1,6 @@
 {
-  "name": "XLICON-V4-MD",
-  "version": "4.0.0",
+  "name": "𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.",
+  "version": "1.0.0",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
   "type": "commonjs",
@@ -8,9 +8,9 @@
     "start": "node start.js"              
   },
   "keywords": [
-    "Whatsapp Bot By Salman Ahmad"
+    "Whatsapp Bot By 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟."
   ],
-  "author": "Salman-Ahmad",
+  "author": "𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 ",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
