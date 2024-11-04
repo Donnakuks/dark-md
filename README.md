@@ -2,15 +2,11 @@
 
 # `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
 <br>
-<br>
-   
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=Its%20𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 )
 
 ## 🌟 `Bot Intro and Features`
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">
-    <img alt="ダーク" height="600" width="600" src="https://files.fm/f/8fxcp5jtqe">
+    <img alt="https://files.fm/f/8fxcp5jtqe" height="600" width="600">
     <h1 align="center">𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.</h1>
   </a>
 </p>
