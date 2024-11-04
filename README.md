@@ -197,7 +197,7 @@ NOW Deploy👇
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
+- [`Dark-md channel`](https://whatsapp.com/channel/0029Vau78ycAO7R8rmToDC3l)
 - [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
@@ -205,21 +205,11 @@ NOW Deploy👇
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
-
-<p align="left">
-Click On The Link To Donate ME...
-</p>
-
-
-- **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
-
-<a href="https://www.buymeacoffee.com/ahmmikun">
 <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
 
-## 🔒 `Reminder`
+## 🦇`Reminder`
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## `Pannel Supoort`
@@ -249,8 +239,8 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
   
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V4-MD.git
-cd XLICON-V4-MD
+git clone https://github.com/<your gitHub Username>/dark-md.git
+cd dark-md 
 npm start
 ```
 
@@ -265,8 +255,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XLICON-V4-MD
-cd XLICON-V4-MD
+git clone https://github.com/<your-gitHub-Username>/dark-md
+cd dark-md 
 npm install
 npm start
 ```
@@ -302,8 +292,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XLICON-V4-MD
-cd XLICON-V4-MD
+git clone https://github.com/<your-gitHub-Username>/dark-md
+cd dark-md 
 npm install
 npm start
 ```
@@ -316,8 +306,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/<your gitHub Username>/XLICON-V4-MD
-cd XLICON-V4-MD
+git clone https://github.com/<your gitHub Username>/dark-md
+cd dark-md
 npm start
 ```
 
