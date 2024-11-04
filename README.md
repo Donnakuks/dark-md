@@ -1,35 +1,28 @@
  
 
-# `XLICON-V4-MD`
+# `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
 <br>
 <br>
    
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=Its%20XLICON-V4-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
-<p align="center">
-  
->XLICON-V4-MD is based on :
->- [Cheems V15](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
->
-> :unicorn: Don't forget to check out! :point_right: [Cheems V15](https://github.com/DGXeon)
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=Its%20𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 )
 
 ## 🌟 `Bot Intro and Features`
 <p align="center">  
-  <a href="https://youtube.com/@s4salmanyt">
-    <img alt="Xlicon" height="600" width="600" src="https://iili.io/dET3ukX.md.png">
-    <h1 align="center">XLICON-V4</h1>
+  <a href="https://youtube.com/@davvy0989">
+    <img alt="ダーク" height="600" width="600" src="https://files.fm/f/8fxcp5jtqe">
+    <h1 align="center">𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.</h1>
   </a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Donnakuks"><img title="Author" src="https://img.shields.io/badge/CREATOR-𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 -black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V4**
-XLICON-V4 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About 𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.**
+𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟. is a Cool Multi-Device WhatsApp bot developed by [David](https://github.com/Donnakuks). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V4}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.}/count.svg" alt="𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐  :: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
