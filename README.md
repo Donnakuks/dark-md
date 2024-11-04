@@ -22,9 +22,9 @@
 <a href="https://github.com/Donnakuks"><img title="Author" src="https://img.shields.io/badge/dark-md?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Donnakuks?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
-<a href="https://github.com/Donnakuks/dark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Dagger-Bot?&style=social"></a>
-<a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
+<a href="https://github.com/Donnakuks?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Donnakuks?label=Followers&style=social"></a>
+<a href="https://github.com/Donnakuks/dark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Donnakuks/dark-md?&style=social"></a>
+<a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Donnakuks/dark-md?style=social"></a>
 <a href="https://github.com/Donnakuks/dark-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
 
 </p>
