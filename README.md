@@ -1,6 +1,6 @@
 
 
-# [`𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐 `](https://wa.me/2349137178897)
+# `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟ `
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">  
 <p align="center">
