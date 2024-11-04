@@ -1,8 +1,6 @@
  
 
 # `𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.`
-
-
 <p align="center">  
   <a href="https://youtube.com/@davvy0989">
     <img alt="" height="600" width="600">
@@ -23,8 +21,8 @@
 <p align="center">
 <a href="https://github.com/Donnakuks/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
 <a href="https://github.com/Donnakuks/dark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Donnakuks/dark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V4-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V4-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V4-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Donnakuks/dark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Donnakuks/dark-md?color=red&style=flat-square"></a>
+<a href="https://github.com/Donnakuks/dark-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V4-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/salmanytofficial/XLICON-V4-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
 <a href="https://github.com/Donnakuks/dark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/Donnakuks/dark-md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonnakuks%2F𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
