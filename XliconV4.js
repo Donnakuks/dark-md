@@ -21479,20 +21479,20 @@ const axios = require('axios');
             const a = db.users[sender]
             const me = m.sender
 			const xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Wagwan 🦇*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *USER INFO* 」❍
+├ *${xliconytimewisher} 🦇* 
+╰─┬────🦇 ${readmore}
+╭─┴🦇「 *USER INFO* 」🦇
 ├ *Name* : ${m.pushName ? m.pushName : 'No name'}
 ├ *Number* : +${me.split('@')[0]}
 ├ *Id* : @${m.sender.split('@')[0]}
 ├ *User* : ${isVip ? 'VIP' : isPremium ? 'PREMIUM' : 'FREE'}
 ├ *Limit* : ${isVip ? 'VIP' : global.db.users[m.sender].limit }
 ├ *Money* : ${global.db.users[m.sender] ? global.db.users[m.sender].uang.toLocaleString('en-IN') : '0'}
-╰─┬────❍
-╭─┴─❍「 *BOT INFO* 」❍
+╰─┬────🦇
+╭─┴─🦇「 *BOT INFO* 」🦇
 ├ *Speed* : ${latensie.toFixed(4)} miliseconds
 ├ *Runtime* : ${runtime(process.uptime())}
 ├ *Host* : ${os.hostname()}
@@ -21504,13 +21504,13 @@ const axios = require('axios');
 ├ *Total Hit* : ${global.db.settings[botNumber].totalhit} Hit
 ├ *Total Chat* : ${Object.keys(global.db.groups).length} Chat/Gc
 ├ *Prefix* :「 ${xprefix} 」
-╰─┬────❍
-╭─┴─❍「 *TIME* 」❍
+╰─┬────🦇
+╭─┴─🦇「 *TIME* 」🦇
 ├ *Date* : ${xdate}
 ├ *Day* : ${xday}
 ├ *Time* : ${xtime}
-╰─┬────❍
-╭─┴❍「 *MENU* 」❍
+╰─┬────🦇
+╭─┴🦇「 *𝕸enu* 」🦇
 │${setv} ${prefix}allmenu
 │${setv} ${prefix}searchmenu
 │${setv} ${prefix}downloadmenu
@@ -21531,7 +21531,7 @@ const axios = require('axios');
 │${setv} ${prefix}stalkermenu
 │${setv} ${prefix}bugmenu
 │${setv} ${prefix}othermenu
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
@@ -21958,17 +21958,17 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'allmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Wagwan 🦇*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
+├ *${xliconytimewisher} 🦇* 
+╰─┬────🦇 ${readmore}
+╭─┴🦇「 *GUIDE* 」🦇
 ├ *🅞 = For Owner* 
 ├ *🅕 = For Free User*
 ├ *🅟 = For Premium User*
 ╰─┬────❍
-╭─┴❍「 *Owner* 」❍
+╭─┴🦇「 *Owner* 」🦇
 │${setv} ${prefix}addbadword 🅞
 │${setv} ${prefix}delbadword 🅞
 │${setv} ${prefix}autoread 🅞
@@ -22047,8 +22047,8 @@ let xmenu_oh = `
 │${setv} $ 🅞
 │${setv} > 🅞
 │${setv} < 🅞
-╰─┬────❍
-╭─┴❍「 *Group* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Group* 」🦇
 │${setv} ${prefix}antibot 🅖
 │${setv} ${prefix}antiviewonce 🅖
 │${setv} ${prefix}readviewonce 🅖
@@ -22108,7 +22108,7 @@ let xmenu_oh = `
 │${setv} ${prefix}react 🅖
 │${setv} ${prefix}getjoinrequest 🅖
 ╰─┬────❍
-╭─┴❍「 *Search* 」❍
+╭─┴🦇「 *Search* 」🦇
 │${setv} ${prefix}google 🅕
 │${setv} ${prefix}wikipedia 🅕
 │${setv} ${prefix}ytsearch 🅕
@@ -22119,8 +22119,8 @@ let xmenu_oh = `
 │${setv} ${prefix}friend 🅕
 │${setv} ${prefix}lyrics 🅕
 │${setv} ${prefix}pixiv 🅕
-╰─┬────❍
-╭─┴❍「 *Download* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Download* 」🦇
 │${setv} ${prefix}itunes 🅕
 │${setv} ${prefix}play 🅕
 │${setv} ${prefix}ytmp3 🅕
@@ -22157,8 +22157,8 @@ let xmenu_oh = `
 │${setv} ${prefix}pinterest 🅕
 │${setv} ${prefix}ringtone 🅕
 │${setv} ${prefix}autodownload 🅞
-╰─┬────❍
-╭─┴❍「 *Tool Menu* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Tool Menu* 」🦇
 │${setv} ${prefix}obfuscate 🅕
 │${setv} ${prefix}styletext 🅕
 │${setv} ${prefix}fliptext 🅕
@@ -22202,8 +22202,8 @@ let xmenu_oh = `
 │${setv} ${prefix}get 🅕
 │${setv} ${prefix}tourl 🅕
 │${setv} ${prefix}write 🅕
-╰─┬────❍
-╭─┴❍「 *List Menu* 」❍
+╰─┬────🦇
+╭─┴🦇「 *List Menu* 」🦇
 │${setv} ${prefix}listprem 🅕
 │${setv} ${prefix}listowner 🅕
 │${setv} ${prefix}liststicker 🅕
@@ -22216,8 +22216,8 @@ let xmenu_oh = `
 │${setv} ${prefix}listbadword 🅕
 │${setv} ${prefix}listpc 🅕
 │${setv} ${prefix}listgc 🅕
-╰─┬────❍
-╭─┴❍「 *Random Photo* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Random Photo* 」🦇
 │${setv} ${prefix}aesthetic 🅕
 │${setv} ${prefix}coffee 🅕
 │${setv} ${prefix}wikimedia 🅕
@@ -22275,8 +22275,8 @@ let xmenu_oh = `
 │${setv} ${prefix}malay 🅕
 │${setv} ${prefix}thai 🅕
 │${setv} ${prefix}vietnamese 🅕
-╰─┬────❍
-╭─┴❍「 *Random Video* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Random Video* 」🦇
 │${setv} ${prefix}tiktokgirl 🅕
 │${setv} ${prefix}tiktoknukthy 🅕
 │${setv} ${prefix}tiktokkayes 🅕
@@ -22285,16 +22285,16 @@ let xmenu_oh = `
 │${setv} ${prefix}tiktokghea 🅕
 │${setv} ${prefix}tiktoksantuy 🅕
 │${setv} ${prefix}tiktokbocil 🅕
-╰─┬────❍
-╭─┴❍「 *Stalker* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Stalker* 」🦇
 │${setv} ${prefix}tiktokstalk 🅕
 │${setv} ${prefix}mlstalk 🅕
 │${setv} ${prefix}npmstalk 🅕
 │${setv} ${prefix}ghstalk 🅕
 │${setv} ${prefix}telestalk 🅕
 │${setv} ${prefix}wachannelstalk 🅕
-╰─┬────❍
-╭─┴❍「 *OpenAI* 」❍
+╰─┬────🦇
+╭─┴🦇「 *OpenAI* 」🦇
 │${setv} ${prefix}blackboxai 🅕
 │${setv} ${prefix}travel-assistant 🅕
 │${setv} ${prefix}guru-ai 🅕
@@ -22324,7 +22324,7 @@ let xmenu_oh = `
 │${setv} ${prefix}ai 🅕
 │${setv} ${prefix}remini 🅕
 ╰─┬────❍
-╭─┴❍「 *Game* 」❍
+╭─┴🦇「 *Game* 」🦇
 │${setv} ${prefix}truth 🅕
 │${setv} ${prefix}dare 🅕
 │${setv} ${prefix}suit 🅕
@@ -22339,8 +22339,8 @@ let xmenu_oh = `
 │${setv} ${prefix} claim 🅕
 │${setv} ${prefix} tmoney 🅕
 │${setv} ${prefix} tflimit 🅕
-╰─┬────❍
-╭─┴❍「 *Fun* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Fun* 」🦇
 │${setv} ${prefix}define 🅕
 │${setv} ${prefix}readmore 🅕
 │${setv} ${prefix}yomamajoke 🅕
@@ -22406,8 +22406,8 @@ let xmenu_oh = `
 │${setv} ${prefix}feed 🅕
 │${setv} ${prefix}checkme 🅕
 │${setv} ${prefix}sound1 - sound161 🅕
-╰─┬────❍
-╭─┴❍「 *Sticker* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Sticker* 」🦇
 │${setv} ${prefix}goose 🅕
 │${setv} ${prefix}woof 🅕
 │${setv} ${prefix}8ball 🅕
@@ -22415,8 +22415,8 @@ let xmenu_oh = `
 │${setv} ${prefix}meow 🅕
 │${setv} ${prefix}gura 🅕
 │${setv} ${prefix}telestick 🅕
-╰─┬────❍
-╭─┴❍「 *Anime* 」❍
+╰─┬────🦇
+╭─🦇「 *Anime* 」🦇
 │${setv} ${prefix}searchanime 🅕
 │${setv} ${prefix}animeinfo  🅕
 │${setv} ${prefix}animeid 🅕
@@ -22558,12 +22558,12 @@ let xmenu_oh = `
 │${setv} ${prefix}shinobu 🅕
 │${setv} ${prefix}fox_girl 🅕
 │${setv} ${prefix}gecg 🅕 
-╰─┬────❍
-╭─┴❍「 *Anime NSFW* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Anime NSFW* 」🦇
 │ _Sorry USERS_
 │ NO NSFW MENU AVAILABLE
-╰─┬────❍
-╭─┴❍「 *Database* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Database* 」🦇
 │${setv} ${prefix}setcmd 🅞
 │${setv} ${prefix}delcmd 🅞
 │${setv} ${prefix}listcmd 🅕
@@ -22572,15 +22572,15 @@ let xmenu_oh = `
 │${setv} ${prefix}delmsg 🅞
 │${setv} ${prefix}getmsg 🅕
 │${setv} ${prefix}listmsg 🅕
-╰─┬────❍
-╭─┴❍「 *Store* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Store* 」🦇
 │${setv} ${prefix}list 🅕
 │${setv} ${prefix}store 🅕
 │${setv} ${prefix}shop 🅕
 │${setv} ${prefix}addlist 🅞
 │${setv} ${prefix}dellist 🅞
-╰─┬────❍
-╭─┴❍「 *Religon* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Religon* 」🦇
 │${setv} ${prefix}bible 🅕
 │${setv} ${prefix}quran 🅕
 │${setv} ${prefix}gita 🅕
@@ -22601,8 +22601,8 @@ let xmenu_oh = `
 │${setv} ${prefix}niyatnamaz 🅕
 │${setv} ${prefix}quotesislami 🅕
 │${setv} ${prefix}assalamualaikum 🅕
-╰─┬────❍
-╭─┴❍「 *Bug & War* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Bug & War* 」🦇
 │${setv} ${prefix}xandroid 🅞
 │${setv} ${prefix}xandroid2 🅞
 │${setv} ${prefix}xios 🅞
@@ -22613,8 +22613,8 @@ let xmenu_oh = `
 │${setv} ${prefix}ioskill 🅞
 │${setv} ${prefix}onekill 🅞
 │${setv} ${prefix}xgcmem 🅞
-╰─┬────❍
-╭─┴❍「 *Other* 」❍
+╰─┬────🦇
+╭─┴🦇「 *Other* 」🦇
 │${setv} ${prefix}update 🅕
 │${setv} ${prefix}cricket 🅕
 │${setv} ${prefix}score 🅕
@@ -22635,7 +22635,7 @@ let xmenu_oh = `
 │${setv} ${prefix}tagme 🅕
 │${setv} ${prefix}nowa 🅕
 │${setv} ${prefix}truecaller 🅕
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
