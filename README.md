@@ -171,14 +171,13 @@ NOW Deploy👇
 
 ## 🦇 `Support Us`
 - **Mail Us:** [Send Email](mailto:davvy247@gmail.com)
-- **Join Our Support Group:**
+- **Join Our Support Group:https://chat.whatsapp.com/DI2Gi3bEWlrGQHTqfkskYg**
  <p align="center">
    
   ## ``WhatsApp Support🦇``
    
 - [`Dark-md channel`](https://whatsapp.com/channel/0029Vau78ycAO7R8rmToDC3l)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+- [`Support Gc`](https://https://chat.whatsapp.com/DI2Gi3bEWlrGQHTqfkskYg)
 
 <a aria-label="Join our chats" href="https://wa.me/2349137178897?text=Hi!! 𝖃𝖊𝖓𝖕𝖆𝖎 𝕯𝖆𝖗𝖐  Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
