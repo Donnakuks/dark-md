@@ -51,7 +51,7 @@ const { GroupUpdate, GroupParticipantsUpdate, MessagesUpsert, Solving } = requir
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif');
 const { isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/function');
 
-console.log(chalk.cyan(figlet.textSync("XLICON-V4", {
+console.log(chalk.cyan(figlet.textSync("DARK-MD", {
     font: 'DOS Rebel',
     horizontalLayout: 'default',
     vertivalLayout: 'default',
