@@ -1000,27 +1000,27 @@ quoted: m,
         }
         
 //time
-const xday = moment.tz('Asia/Karachi').locale('en-IN').format('dddd');
-const xdate = moment.tz('Asia/Karachi').locale('en-IN').format('DD/MM/YYYY');
-const xtime = moment().tz('Asia/Karachi').locale('en-IN').format('HH:mm:ss');
-const time2 = moment().tz('Asia/Karachi').format('HH:mm:ss')  
+const xday = moment.tz('Africa/Nigeria').locale('en-IN').format('dddd');
+const xdate = moment.tz('Africa/Nigeria').locale('en-IN').format('DD/MM/YYYY');
+const xtime = moment().tz('Africa/Nigeria').locale('en-IN').format('HH:mm:ss');
+const time2 = moment().tz('Africa/Nigeria').format('HH:mm:ss')  
 if(time2 < "23:59:00"){
-var xliconytimewisher = `Good Night 🌌`
+var xliconytimewisher = `Wagwan 🌌`
  }
  if(time2 < "19:00:00"){
-var xliconytimewisher = `Good Evening 🌃`
+var xliconytimewisher = `Wagwan 🌃`
  }
  if(time2 < "18:00:00"){
-var xliconytimewisher = `Good Evening 🌃`
+var xliconytimewisher = `Wagwan 🌃`
  }
  if(time2 < "15:00:00"){
-var xliconytimewisher = `Good Afternoon 🌅`
+var xliconytimewisher = `Wagwan 🌅`
  }
  if(time2 < "11:00:00"){
-var xliconytimewisher = `Good Morning 🌄`
+var xliconytimewisher = `Wagwan 🌄`
  }
  if(time2 < "05:00:00"){
-var xliconytimewisher = `Good Morning 🌄`
+var xliconytimewisher = `Wagwan 🌄`
  } 
 
 //theme txt
@@ -21481,35 +21481,12 @@ const axios = require('axios');
 			const xmenu_oh = `
 ╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
 ├ *Wagwan 🦇*
-├ *${m.pushName}* 
-├ *${xliconytimewisher} 🦇* 
-╰─┬────🦇 ${readmore}
-╭─┴🦇「 *USER INFO* 」🦇
-├ *Name* : ${m.pushName ? m.pushName : 'No name'}
-├ *Number* : +${me.split('@')[0]}
-├ *Id* : @${m.sender.split('@')[0]}
-├ *User* : ${isVip ? 'VIP' : isPremium ? 'PREMIUM' : 'FREE'}
-├ *Limit* : ${isVip ? 'VIP' : global.db.users[m.sender].limit }
-├ *Money* : ${global.db.users[m.sender] ? global.db.users[m.sender].uang.toLocaleString('en-IN') : '0'}
-╰─┬────🦇
-╭─┴─🦇「 *BOT INFO* 」🦇
-├ *Speed* : ${latensie.toFixed(4)} miliseconds
-├ *Runtime* : ${runtime(process.uptime())}
-├ *Host* : ${os.hostname()}
-├ *Platform* : ${os.platform()}
+├ *${m.pushName}
 ├ *Bot Name* : ${global.botname}
 ├ *Owner* : @${ownernumber[0].split('@')[0]}
 ├ *Mode* : ${XliconBotInc.public ? 'Public' : 'Self'}
-├ *Total User* : ${Object.keys(global.db.users).length} User
-├ *Total Hit* : ${global.db.settings[botNumber].totalhit} Hit
-├ *Total Chat* : ${Object.keys(global.db.groups).length} Chat/Gc
-├ *Prefix* :「 ${xprefix} 」
-╰─┬────🦇
-╭─┴─🦇「 *TIME* 」🦇
-├ *Date* : ${xdate}
-├ *Day* : ${xday}
-├ *Time* : ${xtime}
-╰─┬────🦇
+├ *Prefix* : `.`
+╰─┬────${readmore}
 ╭─┴🦇「 *𝕸enu* 」🦇
 │${setv} ${prefix}allmenu
 │${setv} ${prefix}searchmenu
@@ -21959,15 +21936,10 @@ break
 case 'allmenu': {
 let xmenu_oh = `
 ╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
-├ *Wagwan 🦇*
+├ *Yo 🦇*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 🦇* 
+├ *${xliconytimewisher}* 
 ╰─┬────🦇 ${readmore}
-╭─┴🦇「 *GUIDE* 」🦇
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
 ╭─┴🦇「 *Owner* 」🦇
 │${setv} ${prefix}addbadword 🅞
 │${setv} ${prefix}delbadword 🅞
@@ -22986,17 +22958,11 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'ownermenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
+├ *${xliconytimewisher}* 
 ╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
-╭─┴❍「 *Owner* 」❍
+╭─┴🦇「 *Owner* 」🦇
 │${setv} ${prefix}addbadword 🅞
 │${setv} ${prefix}delbadword 🅞
 │${setv} ${prefix}autoread 🅞
@@ -23075,7 +23041,7 @@ let xmenu_oh = `
 │${setv} $ 🅞
 │${setv} > 🅞
 │${setv} < 🅞
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
@@ -23426,17 +23392,12 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'groupmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *GREETING* 」🦇
+├ *Yo*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
-╭─┴❍「 *Group* 」❍
+├ *${xliconytimewisher}* 
+╰─┬────🦇 ${readmore}
+╭─┴🦇「 *Group* 」🦇
 │${setv} ${prefix}antibot 🅖
 │${setv} ${prefix}antiviewonce 🅖
 │${setv} ${prefix}readviewonce 🅖
@@ -23494,7 +23455,7 @@ let xmenu_oh = `
 │${setv} ${prefix}nsfw 🅖
 │${setv} ${prefix}react 🅖
 │${setv} ${prefix}getjoinrequest 🅖
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
@@ -23845,17 +23806,12 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'searchmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Wagwan*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
-╭─┴❍「 *Search* 」❍
+├ *${xliconytimewisher}* 
+╰─┬────🦇 ${readmore}
+╭─┴🦇「 *Search* 」🦇
 │${setv} ${prefix}google 🅕
 │${setv} ${prefix}wikipedia 🅕
 │${setv} ${prefix}ytsearch 🅕
@@ -23866,7 +23822,7 @@ let xmenu_oh = `
 │${setv} ${prefix}friend 🅕
 │${setv} ${prefix}lyrics 🅕
 │${setv} ${prefix}pixiv 🅕
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
@@ -24217,16 +24173,11 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'downloadmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Hi 🦇*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
+├ *${xliconytimewisher}* 
 ╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
 ╭─┴❍「 *Download* 」❍
 │${setv} ${prefix}itunes 🅕
 │${setv} ${prefix}play 🅕
@@ -24615,17 +24566,12 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'toolmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Yoo*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
-╭─┴❍「 *Tool Menu* 」❍
+├ *${xliconytimewisher}* 
+╰─┬────${readmore}
+╭─┴🦇「 *Tool Menu* 」🦇
 │${setv} ${prefix}obfuscate 🅕
 │${setv} ${prefix}styletext 🅕
 │${setv} ${prefix}fliptext 🅕
@@ -24669,7 +24615,7 @@ let xmenu_oh = `
 │${setv} ${prefix}get 🅕
 │${setv} ${prefix}tourl 🅕
 │${setv} ${prefix}write 🅕
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
@@ -25020,17 +24966,12 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'listmenu': {
 let xmenu_oh = `
-╭──❍「 *GREETING* 」❍
-├ *Hi 👋*
+╭──🦇「 *𝕯𝖆𝖗𝖐 𝕸𝖉🦇⃟.* 」🦇
+├ *Yo*
 ├ *${m.pushName}* 
-├ *${xliconytimewisher} 😄* 
-╰─┬────❍ ${readmore}
-╭─┴❍「 *GUIDE* 」❍
-├ *🅞 = For Owner* 
-├ *🅕 = For Free User*
-├ *🅟 = For Premium User*
-╰─┬────❍
-╭─┴❍「 *List Menu* 」❍
+├ *${xliconytimewisher}* 
+╰─┬──── ${readmore}
+╭─┴🦇「 *List Menu* 」🦇
 │${setv} ${prefix}listprem 🅕
 │${setv} ${prefix}listowner 🅕
 │${setv} ${prefix}liststicker 🅕
@@ -25043,7 +24984,7 @@ let xmenu_oh = `
 │${setv} ${prefix}listbadword 🅕
 │${setv} ${prefix}listpc 🅕
 │${setv} ${prefix}listgc 🅕
-╰──────❍`
+╰──────🦇`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
